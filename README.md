@@ -33,7 +33,7 @@
 
 ## 📊 Statistiques GitHub
 
-![Statistiques GitHub de Thomas](https://github-readme-stats.vercel.app/api?username=Obsercorma&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Obsercorma&show_icons=true&theme=radical)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsercorma&layout=compact&theme=radical)
 
 ---
