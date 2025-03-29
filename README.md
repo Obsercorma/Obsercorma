@@ -12,7 +12,6 @@
     *Participation à de nombreux projets web, notamment la mise en place d'une solution pour accélérer le développement de futurs projets en appliquant une configuration de base, des pages et des fonctionnalités.*  
   - **Stagiaire Développeur Firmware/BSP et IIoT chez COVADE** (Mai 2023 - Juin 2023)  
     *Mise en place d'un système de mesure pour un château d'eau utilisant des cartes Nucléo (STM32) communiquant via un protocole propriétaire en architecture Master/Slave.*  
-- 🌱 **Actuellement en apprentissage** : Chez Aurion  
 - 💬 **Discutons de** : Développement web, IoT, systèmes embarqués
 
 ---
