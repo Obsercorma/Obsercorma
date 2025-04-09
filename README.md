@@ -51,7 +51,7 @@
 ## 📫 Me contacter
 
 - 🌐 [Mon portfolio](https://obsercorma.dev)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/obsercorma-lunibris/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/obsercorma-lunibris/)  
 
 ---
 
