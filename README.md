@@ -19,7 +19,7 @@
 ## 🛠️ Compétences techniques
 
 ### 🌐 **Développement Web**
-![NuxtJS](https://img.shields.io/badge/NuxtJS-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/NuxtJS-00C58E?style=for-the-badge&logo=nuxt&logoColor=FFFFFF)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
