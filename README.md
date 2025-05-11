@@ -33,7 +33,7 @@
 
 ## 📊 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Obsercorma&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Obsercorma&hide_border=true&mode=weekly&card_width=350)](https://git.io/streak-stats)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsercorma&layout=compact&theme=radical)
 
 ---
