@@ -1,6 +1,9 @@
 # 👋 Hello !
 
-**Développeur Web FullStack au Mans, passionné par la conception et le développement d'applications web et IoT.**  
+**Développeur passionné basé au Mans. Autodidacte depuis plusieurs années, je conçois des projets mêlant électronique embarquée et développement web.**
+
+**J’aime explorer les interactions entre hardware et software au travers de l'IoT.
+Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
 
 ---
 
