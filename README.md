@@ -49,7 +49,7 @@ Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
 ## 🚀 Projets
 
 - [**GPS-RTRIP PROJECT**](https://obsercorma.dev/projects/personnel/ps1)  
-  *Dispositif doté d'un système GPS et d'autres modules (gestion des données sur une carte SD, capteurs) permettant...* [Complétez avec une brève description du projet.]
+  *Dispositif de randonnée GPS avec d'autres modules* 
 
 - **MythArte.fr**
   *Prochainement... 😉*
@@ -58,7 +58,7 @@ Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
 
 ## 📫 Me contacter
 
-- 🌐 [Mon portfolio](https://obsercorma.dev)  
+- 🌐 [Mon portfolio](https://obsercorma.dev/f/git)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/obsercorma-lunibris/)  
 
 ---
