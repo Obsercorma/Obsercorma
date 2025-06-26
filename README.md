@@ -37,11 +37,13 @@ Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
 ![STM32/Nucleo](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Statistiques GitHub 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Obsercorma&hide_border=true&mode=weekly&card_width=350)](https://git.io/streak-stats)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Obsercorma&show_icons=true&theme=radical)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsercorma&layout=compact&theme=radical)
 
+> [!TIP]
+> Ces statistiques ont été effectuées sur des dépôts publiques.
 ---
 
 ## 🚀 Projets
