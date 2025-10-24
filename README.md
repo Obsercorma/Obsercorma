@@ -12,9 +12,7 @@ Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
 
 ## 🚀 À propos de moi
 
-- 🎓 **Formation** : Cycle Ingéieur généraliste - Électronique et Objets Connectés
 - 💼 **Expérience professionnelle** :  
-  - **Ingénieur Systèmes embarqués CDD - Apprenti BAC+5 chez WEENAV** (Sep 2025 - Sep 2028)
   - **Développeur Web CDD - Apprenti BAC+3/4 chez Agence Aurion** (Sep 2024 - Sep 2025)  
     *Participation à de nombreux projets web, notamment la mise en place d'une solution pour accélérer le développement de futurs projets en appliquant une configuration de base, des pages et des fonctionnalités.*  
   - **Stagiaire Développeur Firmware/BSP et IIoT chez COVADE** (Mai 2023 - Juin 2023)  
