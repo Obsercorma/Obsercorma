@@ -50,8 +50,10 @@ Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
 - [**GPS-RTRIP PROJECT**](https://obsercorma.dev/projects/personnel/ps1)  
   *Dispositif de randonnée GPS avec d'autres modules* 
 
-- **HikingTrips**
-  *Prochainement... 😉*
+- **HikingBook**
+  *Prochainement...*
+- **GPS-RTRIP PROJECT V2**
+  *Prochainement...*
 
 ---
 
