@@ -12,7 +12,8 @@ Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
 
 ## 🚀 À propos de moi
 
-- 💼 **Expérience professionnelle** :  
+- 💼 **Expérience professionnelle** :
+  - **Ingénieur IoT - Apprenti BAC+5** (Sept 2025 - Août 2028)
   - **Développeur Web CDD - Apprenti BAC+3/4 chez Agence Aurion** (Sep 2024 - Sep 2025)  
     *Participation à de nombreux projets web, notamment la mise en place d'une solution pour accélérer le développement de futurs projets en appliquant une configuration de base, des pages et des fonctionnalités.*  
   - **Stagiaire Développeur Firmware/BSP et IIoT chez COVADE** (Mai 2023 - Juin 2023)  
@@ -36,24 +37,15 @@ Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
 ![STM32/Nucleo](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ---
 
-## 📊 Statistiques GitHub 
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Obsercorma&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsercorma&layout=compact&theme=radical)
-
-> [!TIP]
-> Ces statistiques ont été effectuées sur des dépôts publiques.
----
-
 ## 🚀 Projets
 
 - [**GPS-RTRIP PROJECT**](https://obsercorma.dev/projects/personnel/ps1)  
   *Dispositif de randonnée GPS avec d'autres modules* 
 
-- **HikingBook**
-  *Prochainement...*
-- **GPS-RTRIP PROJECT V2**
-  *Prochainement...*
+- [**HikingBook**](https://hikingbook.obsercorma.dev)
+  *Site web de publication de randonnées à la Strava*
+- [**GPS-RTRIP PROJECT V2**](https://obsercorma.dev/projects/personnel/ps3)
+  *2ème version du projet GPS RTRIP-PROJECT*
 
 ---
 
