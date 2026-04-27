@@ -46,7 +46,8 @@ Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
   *Site web de publication de randonnées à la Strava*
 - [**GPS-RTRIP PROJECT V2**](https://obsercorma.dev/projects/personnel/ps3)
   *2ème version du projet GPS RTRIP-PROJECT*
-
+- [**Bientôt...**]
+  *Prochainement: Gestionnaire de mot de passe*
 ---
 
 ## 📫 Me contacter
