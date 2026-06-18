@@ -1,4 +1,5 @@
 ![background-Obsercorma](https://github.com/user-attachments/assets/b97b7614-7d9e-471a-bc55-49f82426891e)
+![view-counter](https://komarev.com/ghpvc/?username=obsercorma&label=Profile%20views&color=0e75b6&style=flat)
 
 
 # 👋 Hello !
@@ -23,6 +24,8 @@ Mon objectif : créer des solutions utiles, fiables et bien intégrées.**
 ---
 
 ## 🛠️ Compétences techniques
+
+![Stats1](https://github-readme-stats.vercel.app/api/top-langs?username=obsercorma&show_icons=true&locale=en&layout=compact)
 
 ### 🌐 **Développement Web**
 ![NuxtJS](https://img.shields.io/badge/NuxtJS-00C58E?style=for-the-badge&logo=nuxt&logoColor=FFFFFF)
